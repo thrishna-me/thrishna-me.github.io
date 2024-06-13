@@ -904,7 +904,7 @@ img {
 }
 
 .footer__container {
-  row-gap: 3.5rem;
+  row-gap: 2.5rem;
 }
 
 .footer__bg {
@@ -921,10 +921,10 @@ img {
   font-size: var(--small-font-size);
 }
 
-.footer__links {
+.footer__link {
   display: flex;
   flex-direction: column;
-  row-gap: 1.5rem;
+  row-gap: 1rem;
 }
 
 .footer__link:hover {
